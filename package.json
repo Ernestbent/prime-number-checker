@@ -1,0 +1,19 @@
+
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A Node.js module for checking whether a number is prime.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [
+    "prime",
+    "prime-number",
+    "checker",
+    "nodejs"
+  ],
+  "author": "Othieno Benedict Ernest",
+  "license": "MIT"
+}
